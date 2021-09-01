@@ -16,7 +16,7 @@ This app predicts a class of **Salary** of a person!
 st.sidebar.header('User Input Features')
 
 st.sidebar.markdown("""
-[Example CSV input file](https://github.com/shiv-2025/Salary_pred/blob/main/sample.csv?raw=true)
+[Example CSV input file](https://github.com/shiv-2025/Adult-Census-Income-Prediction/blob/main/Database/sample.csv)
 """)
 
 # Collects user input features into dataframe
