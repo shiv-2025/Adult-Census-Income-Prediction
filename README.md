@@ -13,4 +13,4 @@ Link to YouTube demo:
 
 ## Architecture
 
-![image](https://user-images.githubusercontent.com/82932314/129900954-ff183c93-834e-402b-b70a-311c11bacc6b.png)
+![image](https://user-images.githubusercontent.com/82932314/131610441-09942987-56f1-4c0a-b0f3-f4c93912d86f.png)
