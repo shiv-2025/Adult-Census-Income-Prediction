@@ -1,6 +1,8 @@
 # Adult Census Income Prediction
 
-Here we have predicted salary of a person based on his/her age, race, education etc. It is a classification problem where salary output will be either <=$50k or >$50k.
+I have received an internship experience letter for this project. Here is the link to experience letter: https://drive.google.com/file/d/1HcVAWmqeEYQ4PF8cZuKGtl9S7hEMrT-S/view?usp=share_link
+
+Here I have predicted salary of a person based on his/her age, race, education etc. It is a classification problem where salary output will be either <=$50k or >$50k.
 
 Data is taken from Kaggle website https://www.kaggle.com/overload10/adult-census-dataset
 
